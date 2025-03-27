@@ -6,9 +6,9 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Bem Vindo ao Perguntas Frequentes do FAP e MPT.
+# Bem Vindo ao Perguntas Frequentes do SGB.
 {: .fs-9 }
 
 
-Bem-vindo à página de Perguntas Frequentes (FAQ) sobre o FAP (Formação Acelerada em Programação) e o MPT (Melhoria do Processo de Teste). Aqui, você encontrará respostas para as principais dúvidas relacionadas aos dois sistemas do nosso ecossistema.
+Bem-vindo à página de Perguntas Frequentes (FAQ) sobre o Sistema de Gerenciamento de Bolsas (SGB) Aqui, você encontrará respostas para as principais dúvidas relacionadas ao nosso sistema.
 
